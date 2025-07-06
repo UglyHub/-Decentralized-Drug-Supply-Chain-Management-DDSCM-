@@ -107,7 +107,5 @@ This project is licensed under the [GNU General Public License v3.0](https://www
 Contributions are welcome! Please fork the repository and submit pull requests with detailed descriptions of changes. Ensure tests pass and adhere to the coding standards.
 
 ## Contact
-For questions or support, reach out via the project maintainers' contact details (to be added).
+For questions or contributions, please contact [Chiderah Onwumelu] at [chiderahonwumelu@gmail.com].
 
-## Version
-- Initial Release: July 06, 2025
